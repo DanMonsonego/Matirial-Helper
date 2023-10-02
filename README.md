@@ -27,7 +27,7 @@ Detailed steps for administrators and users to get acquainted with the system, r
 
 - **Programming Language**: C#
 - **Architecture**: MVC (Model-View-Controller)
-- **Database**: (Specify the database technology used, if any)
+- **Database**: SQL database 
 - **Version Control**: Git, GitHub
 
 ## 💼 Lessons Learned
