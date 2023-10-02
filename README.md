@@ -1,7 +1,5 @@
 # Material Helper Project
 
-![Project Banner](banner.png)
-
 ## 🎯 Introduction
 
 In light of the COVID-19 pandemic and subsequent governmental restrictions, a portion of the populace found themselves unable to perform basic tasks like grocery shopping or accessing essential services.
